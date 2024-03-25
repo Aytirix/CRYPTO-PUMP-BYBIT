@@ -1,0 +1,12 @@
+[INVESTISSEMENT]
+investissement en pourcentage = 5
+benefice en pourcentage = 20
+
+[API KUCOIN]
+api_key = ***
+api_secret = ***
+api_passphrase = ***
+
+[DISCORD]
+discord id = ***
+cookie = ***
